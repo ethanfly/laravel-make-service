@@ -1,6 +1,5 @@
 # Laravel-make-service
 
----
 
 ### 能够使laravel 创建service文件。
 
