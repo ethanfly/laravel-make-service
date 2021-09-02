@@ -2,7 +2,7 @@
 
 -----
 
-###能够使laravel 创建service文件。
+### 能够使laravel 创建service文件。
 
 
 1. 使用：`php artisan make:service IndexService`
