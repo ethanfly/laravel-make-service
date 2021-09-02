@@ -3,8 +3,8 @@
   "description": "'laravel can make service'",
   "type": "composer-plugin",
   "require": {
-    "illuminate/support": "^8.x-dev",
-    "illuminate/console": "^8.x-dev"
+    "illuminate/support": "^5.x",
+    "illuminate/console": "^5.x"
   },
   "license": "MIT",
   "autoload": {
