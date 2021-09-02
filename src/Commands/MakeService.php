@@ -36,7 +36,7 @@ class MakeService extends GeneratorCommand
     protected function getStub()
     {
         // Implement getStub() method.
-        return __DIR__ . '../stubs/service.stub';
+        return __DIR__ . '/../stubs/service.stub';
     }
 
     /**
