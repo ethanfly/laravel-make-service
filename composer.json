@@ -1,7 +1,7 @@
 {
   "name": "ethan/laravel-make-service",
   "description": "'laravel can make service'",
-  "type": "composer-plugin",
+  "type": "library",
   "require": {
     "laravel/framework": "^v8.0.0"
   },
