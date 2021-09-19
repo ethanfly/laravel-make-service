@@ -1,6 +1,10 @@
 # Laravel-make-service
 
 
+## 安装
+
+`composer require ethan/laravel-make-service`
+
 ### 能够使laravel 创建service文件。
 
 
