@@ -3,7 +3,7 @@
   "description": "'laravel can make service'",
   "type": "library",
   "require": {
-    "laravel/framework": "^v8.0.0"
+    "laravel/framework": "^v8.0.0||^v9.0.0"
   },
   "license": "MIT",
   "autoload": {
