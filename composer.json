@@ -3,7 +3,7 @@
   "description": "'laravel can make service'",
   "type": "library",
   "require": {
-    "laravel/framework": "^8.0||^9.0"
+    "laravel/framework": "*"
   },
   "license": "MIT",
   "autoload": {
@@ -23,8 +23,7 @@
       "providers": [
         "Ethan\\LaravelMakeService\\MakeServiceProvider"
       ],
-      "aliases": {
-      }
+      "aliases": {}
     }
   }
 }
